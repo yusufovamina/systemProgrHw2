@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace systemProgrHw2
 {
+
     internal class task2
     {
         static void Main(string[] args)
